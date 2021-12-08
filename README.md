@@ -1,7 +1,7 @@
 # Statistiscs and Machine Learning - Wine Quality Prediction 
 (Data Science Degree - [Let's Code](https://letscode.com.br/))
 
-## The goal of the project I worked with at the Statistics module of the course I'm undergoing was to study the performance of a Linear Regression and a Logistic Regression when applied to some physicochemical data on wine. In the end, the Logistic Regression had a much better performance due to some characteristics of the dataset and the nature of the problem itself. 
+## The goal of the project I worked with at the Statistics module of the course I'm undergoing was to study the performance of a Linear Regression and a Logistic Regression when applied to physicochemical data on wine in an attempt to predict the quality of the wine. In the end, the Logistic Regression had a much better performance due to some characteristics of the dataset and the nature of the problem itself. 
 
 - [Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
